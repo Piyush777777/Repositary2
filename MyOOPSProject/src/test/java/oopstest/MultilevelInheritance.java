@@ -20,6 +20,8 @@ public class MultilevelInheritance {
 
     	String Vivo_Bat = d.Vivo_MAH();
     	assertEquals(Vivo_Bat,"6000");
+    	
+    	
 
     
     }

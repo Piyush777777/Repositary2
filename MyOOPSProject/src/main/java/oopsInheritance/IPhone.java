@@ -1,4 +1,4 @@
-package oops;
+package oopsInheritance;
 
 public class IPhone extends Phone{
   public float megaPixel_IPhone() {

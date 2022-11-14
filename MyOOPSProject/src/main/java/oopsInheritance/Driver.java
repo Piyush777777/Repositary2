@@ -1,4 +1,4 @@
-package oops;
+package oopsInheritance;
 
 public class Driver extends Vivo {
 	public static void main(String args[]) {
